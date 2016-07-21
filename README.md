@@ -64,7 +64,7 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 
 - Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo.
 
-## Grupos signatários deste guia
+## 5. Grupos signatários deste guia
 
 [https://telegram.me/puppetbr](https://telegram.me/puppetbr)<br>
 [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)<br>
@@ -76,10 +76,14 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 [https://telegram.me/go_br](https://telegram.me/go_br)<br>
 [https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
 
-## Como assinar?
+## 6. Como assinar?
 
-Converse com sua comunidade e se todos concordarem em adotar esse guia de conduta, envie um PR adicionando seu grupo.
+Converse com sua comunidade, pergunte se todos concordarem e se sentem confortáveis em recomendar e adotar esse guia de conduta. Caso eles topem, basta enviar um PR adicionando seu grupo.
 
-## Como Contribuir?
+## 7. Como contribuir?
 
-Abra issues ou envie PRs para melhorar ou expandir o guia.
+Abra issues ou envie PRs para melhorar ou expandir este guia.
+
+## 8. Licença
+
+Creative Commons BY-SA-NC
