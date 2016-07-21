@@ -56,7 +56,7 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 
 ### 4.6 Venda de produtos
 
-- Não divulgue produtos, cursos ou qualquer materiais sem consultar os admins (em pvt);
+- Não divulgue produtos, cursos ou quaisquer materiais sem consultar os admins (em pvt);
 - A divulgação deste tipo de oferta deve ter link com o tema do grupo;
 - Existem canais no telegram específicos para este tipo de atividade.
 
