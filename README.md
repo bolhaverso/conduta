@@ -71,8 +71,8 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)<br>
 [https://telegram.me/dockerbr](https://telegram.me/dockerbr)<br>
 [https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)<br>
-[https://telegram.me/elasticbr](https://telegram.me/elasticbr)<br>﻿
-[https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>﻿
+[https://telegram.me/elasticbr](https://telegram.me/elasticbr)<br>
+[https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>
 [https://telegram.me/go_br](https://telegram.me/go_br)<br>
 [https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
 
