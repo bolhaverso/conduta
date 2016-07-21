@@ -32,6 +32,7 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com IT.
+- Exitem canais no telegram específicos para este tipo de atividade.
 
 ### 4.3 Divulgar canais
 
@@ -45,9 +46,14 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 
 ### 4.5 Compartilhar Links
 
-- Evite fazer flood de links no canal
+- Evite fazer flood de links no canal.
 
-### 4.6 Enviar código
+### 4.6 Venda de produtos
+
+- Não divulgue produtos, cursos ou materiais sem consultar os admins (em pvt);
+- Existem canais no telegram específicos para este tipo de atividade.
+
+### 4.7 Enviar código
 
 - Evite fazer flood de código no canal, use sistemas pastebin, gist ou snippets e passe apenas a URL
 
