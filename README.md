@@ -75,6 +75,7 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 [https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>
 [https://telegram.me/go_br](https://telegram.me/go_br)<br>
 [https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
+[https://telegram.me/PyCoding](PyCoding - pt_BR)<br>
 
 ## 6. Como assinar?
 
