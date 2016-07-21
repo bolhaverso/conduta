@@ -24,8 +24,15 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 
 Lembre-se que o telegram é uma rede mundial, dar bom dia, boa tarde e boa noite não faz sentido já que existem
 usuários em diversos fusos nos grupos, tente entender o contexto das conversas e interagir. Se preferir inicie um
-novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que telegram não é real-time-chat, mande a mensagem
-e aguarde os usuários do grupo interagirem a seu tempo.
+novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que telegram não é real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
+
+Não precisa pedir permissão para perguntar, muito menos perguntar se alguém conhece determinado assunto no grupo antes de informar sua dúvida. Apenas faça sua pergunta e aguarde uma interação.
+
+Quando for responder alguma pergunta, clique nela e escolha a opção responder, pois somente assim os membros do grupo saberão que sua resposta está associada aquela determinada questão.
+
+Lembre-se que os grupos não são suportes oficiais das tecnologias relacionadas, são pessoas que assim como você estão ali pra trocar experiência. Não há qualquer acordo de tempo de resposta para as dúvidas no grupo, ou seja, caso ninguém responda é possível que elas não sabem a resposta ou talvez não tiveram tempo disponível para responder.
+
+Tente descrever sua dúvida com o máximo de detalhes possíveis, ou seja, perguntas vagas e superficiais tem menor chance de obter resposta.
 
 ### 4.1 Tema dos grupos
 
