@@ -1,4 +1,4 @@
-# Netiqueta Telegram
+# Código de Conduta
 
 Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI do Telegram.
 
