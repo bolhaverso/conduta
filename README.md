@@ -78,7 +78,7 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 
 ## 6. Como assinar?
 
-Converse com sua comunidade, pergunte se todos concordarem e se sentem confortáveis em recomendar e adotar esse guia de conduta. Caso eles topem, basta enviar um PR adicionando seu grupo.
+Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em recomendar esse guia de conduta. Caso eles topem, basta enviar um PR adicionando seu grupo.
 
 ## 7. Como contribuir?
 
