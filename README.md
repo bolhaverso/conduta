@@ -7,7 +7,7 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 - Canais signatários deste guia são locais livres de assédio ou preconceitos;
 - Não serão tolerados comentários ofensivos sobre gênero, orientação sexual, deficiências, aparência física, raça ou credo;
 - Os membros do grupo não estão no grupo para paquerar, não insista, existem outras redes para isto;
-- O uso de conteúdo adulto em forma de vídeos, imagens ou áudio não será tolerado;
+- O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
 - Termos inadequados, comportamento rude, ofensivo ou desrespeitoso não serão tolerados;
 - Bullying não será tolerado.
 
