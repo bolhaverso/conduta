@@ -75,3 +75,11 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 [https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>﻿
 [https://telegram.me/go_br](https://telegram.me/go_br)<br>
 [https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
+
+## Como assinar?
+
+Converse com sua comunidade e se todos concordarem em adotar esse guia de conduta, envie um PR adicionando seu grupo.
+
+## Como Contribuir?
+
+Abra issues ou envie PRs para melhorar ou expandir o guia.
