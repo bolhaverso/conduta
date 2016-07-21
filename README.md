@@ -65,3 +65,4 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 4. @elasticbr﻿
 5. mac-users-brasil
 6. infraagil.io
+7. @dockerbr
