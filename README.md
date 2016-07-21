@@ -32,7 +32,7 @@ Não precisa pedir permissão para perguntar, muito menos perguntar se alguém c
 
 Quando for responder alguma pergunta, clique nela e escolha a opção responder, pois somente assim os membros do grupo saberão que sua resposta está associada aquela determinada questão.
 
-Lembre-se que os grupos não são suportes oficiais das tecnologias relacionadas, são pessoas que assim como você estão ali pra trocar experiências. Não há qualquer acordo de tempo de resposta para as dúvidas no grupo, ou seja, caso ninguém responda, é possível que elas não saibam a resposta ou talvez não tiveram tempo disponível para responder.
+Lembre-se que os grupos não são canais de suporte oficiais das tecnologias relacionadas, os grupos são formados por pessoas que assim como você estão ali pra trocar experiências. Não há qualquer acordo de tempo de resposta para as dúvidas no grupo, ou seja, caso ninguém responda, é possível que elas não saibam a resposta ou talvez não tiveram tempo disponível para responder.
 
 Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vagas e superficiais tem menor chance de obter resposta.
 
