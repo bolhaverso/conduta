@@ -53,7 +53,7 @@ e aguarde os usuários do grupo interagirem a seu tempo.
 
 - Evite fazer flood de links no canal;
 - Se quiser passar muitos links ou muito material o ideal é fazer um blogpost e compartilhar o link no grupo.
-- 
+
 ### 4.6 Venda de produtos
 
 - Não divulgue produtos, cursos ou qualquer materiais sem consultar os admins (em pvt);
