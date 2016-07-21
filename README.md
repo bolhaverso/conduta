@@ -85,7 +85,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 [https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>
 [https://telegram.me/go_br](https://telegram.me/go_br)<br>
 [https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
-[https://telegram.me/PyCoding](PyCoding - pt_BR)<br>
+[https://telegram.me/PyCoding](https://telegram.me/PyCoding)<br>
 
 ## 6. Como assinar?
 
