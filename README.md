@@ -10,10 +10,10 @@ Os canais signatários deste guia são locais livres de assédio ou preconceitos
 - Os membros do grupo não estão no grupo para paquerar, não insista, existem outras redes para isto;
 - O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
 - Termos inadequados, intimidação, perseguição, comportamento rude, ofensivo ou desrespeitoso não serão tolerados;
-- Piadas sexistas, machistas ou discriminatórias, contra miniorias ou contra uma pessoa ou grupo não serão toleradas;
+- Piadas sexistas, machistas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
 - Bullying não será tolerado.
 
-Aqueles que não respeitarem tais condutas serão advertidos e caso o comportamento persista, serão banidos do grupo ou canal.
+Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista, serão removidos do grupo ou canal.
 
 ## 2. Política anti-spam
 
