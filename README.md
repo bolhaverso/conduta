@@ -90,6 +90,12 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 [https://telegram.me/ShellBr](https://telegram.me/ShellBr)<br>
 [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)<br>
 [https://telegram.me/powershellbr](https://telegram.me/powershellbr)<br>
+[https://telegram.me/frontendbrasil](https://telegram.me/frontendbrasil)<br>
+[https://telegram.me/angularjsbrasil](https://telegram.me/angularjsbrasil)<br>
+[https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)<br>
+[https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)<br>
+[https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)<br>
+[Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)<br>
 
 ## 6. Como assinar?
 
