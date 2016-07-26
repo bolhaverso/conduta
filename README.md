@@ -76,6 +76,8 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ## 5. Grupos signatários deste guia
 
+### 5.1 Grupos e canais com URL's Públicas
+
 [https://telegram.me/puppetbr](https://telegram.me/puppetbr)<br>
 [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)<br>
 [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)<br>
@@ -95,6 +97,9 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)<br>
 [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)<br>
 [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)<br>
+
+### 4.2 Outros
+
 [Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)<br>
 
 ## 6. Como assinar?
@@ -109,6 +114,6 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 
 Creative Commons BY-SA-NC
 
-## 9. Autor e mantenedor
+## 9. Autor e mantenedor do projeto
 
-Guto Carvalho (gutocarvalho@gmail.com).
+Guto Carvalho (gutocarvalho@gmail.com)
