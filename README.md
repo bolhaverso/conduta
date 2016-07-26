@@ -102,3 +102,7 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 ## 8. Licença
 
 Creative Commons BY-SA-NC
+
+## 9. Autor e mantenedor
+
+Guto Carvalho (gutocarvalho@gmail.com).
