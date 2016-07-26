@@ -89,6 +89,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 [https://telegram.me/PfSenseBr](https://telegram.me/PfSenseBr)<br>
 [https://telegram.me/ShellBr](https://telegram.me/ShellBr)<br>
 [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)<br>
+[https://telegram.me/powershellbr](https://telegram.me/powershellbr)<br>
 
 ## 6. Como assinar?
 
