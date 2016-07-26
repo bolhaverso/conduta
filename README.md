@@ -4,7 +4,7 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 
 ## 1. Política anti-harassment
 
-Os canais signatários deste guia são locais livres de assédio ou preconceitos.
+Os canais signatários deste guia são locais livres de assédio, opressão e preconceitos.
 
 - Não serão tolerados comentários ofensivos sobre gênero, orientação sexual, deficiências, aparência física, raça ou credo;
 - Os membros do grupo não estão no grupo para paquerar, não insista, existem outras redes para isto;
