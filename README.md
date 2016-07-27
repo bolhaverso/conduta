@@ -98,7 +98,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)<br>
 19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)<br>
 
-### 4.2 Outros
+### 5.2 Outros
 
 1. [Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)<br>
 
