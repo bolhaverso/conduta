@@ -2,6 +2,8 @@
 
 Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI do Telegram.
 
+Acesse o grupo do código-de-conduta no telegram https://telegram.me/joinchat/AejjFQb7EFdypScMYZGeJw
+
 ## 1. Política anti-harassment
 
 Os canais signatários deste guia são locais livres de assédio, opressão e preconceitos.
@@ -10,7 +12,7 @@ Os canais signatários deste guia são locais livres de assédio, opressão e pr
 - Os membros do grupo não estão no grupo para paquerar, não insista, existem outras redes para isto;
 - O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
 - Termos inadequados, intimidação, perseguição, comportamento rude, ofensivo ou desrespeitoso não serão tolerados;
-- Piadas sexistas, machistas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
+- Piadas sexistas, machistas, misóginas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
 - Bullying não será tolerado.
 
 Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista, serão removidos do grupo ou canal.
