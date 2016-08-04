@@ -2,8 +2,6 @@
 
 Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI do Telegram.
 
-Acesse o grupo do código-de-conduta no telegram https://telegram.me/joinchat/AejjFQb7EFdypScMYZGeJw
-
 ## 1. Política anti-harassment
 
 Os canais signatários deste guia são locais livres de assédio, opressão e preconceitos.
@@ -48,7 +46,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com IT;
-- Existem canais no telegram específicos para este tipo de atividade.
+- Se preferir, existem canais no telegram específicos para este tipo de atividade.
 
 ### 4.3 Divulgar canais
 
@@ -58,19 +56,19 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 ### 4.4 Divulgar eventos
 
 - Não divulgue eventos sem consultar os admins (em pvt);
-- Se for autorizado pelos admins, ainda assim, evite fazer flood com infos do eventos no grupo.
+- Se for autorizado pelos admins, ainda assim, evite fazer flood com infos do evento no grupo.
 
 ### 4.5 Compartilhar links
 
 - Evite fazer flood de links no canal;
-- Se quiser passar muitos links ou muito material o ideal é fazer um blogpost e compartilhar o link no grupo.
+- Se quiser passar muitos links ou muito material, o ideal é fazer um blogpost e compartilhar o link no grupo.
 
 ### 4.6 Divulgar produtos e serviços
 
 - Não divulgue produtos, serviços, cursos ou quaisquer materiais sem consultar os admins (em pvt);
 - Se autorizado, ainda assim, a divulgação deste tipo de oferta deve ter link com o tema do grupo;
 - Evite fazer flood com a divulgação de produtos e serviços;
-- Existem canais no telegram específicos para este tipo de atividade.
+- Se preferir, existem canais no telegram específicos para este tipo de atividade.
 
 ### 4.7 Enviar código
 
@@ -106,11 +104,13 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ## 6. Como assinar?
 
-Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em recomendar esse guia de conduta. Caso eles topem, basta enviar um PR adicionando o seu grupo na seção acima.
+Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em seguir e recomendar esse guia de conduta para novos membros. Caso eles topem seguir o guia, basta enviar um PR adicionando o seu grupo na seção acima.
 
 ## 7. Como contribuir?
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
+
+Acesse o grupo do código-de-conduta https://telegram.me/joinchat/AejjFQb7EFdypScMYZGeJw e mande seu feedback.
 
 ## 8. Licença
 
