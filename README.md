@@ -97,6 +97,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 17. [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)<br>
 18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)<br>
 19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)<br>
+20. [https://telegram.me/excelbr](https://telegram.me/excelbr)<br>
 
 ### 5.2 Outros
 
