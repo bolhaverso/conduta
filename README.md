@@ -72,7 +72,8 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ### 4.7 Enviar código
 
-- Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo.
+- Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo;
+- Para enviar códigos no meio do parágrafo, coloque-o entre crases para destacá-lo com fonte monoespaçada (e fundo vermelho na versão web), por exemplo: ``Use o comando `uname -a` para descobrir a versão``.
 
 ## 5. Grupos signatários deste guia
 
