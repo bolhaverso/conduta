@@ -78,30 +78,30 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ### 5.1 Grupos e canais com URL's Públicas
 
-1. [https://telegram.me/puppetbr](https://telegram.me/puppetbr)<br>
-2. [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)<br>
-3. [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)<br>
-4. [https://telegram.me/dockerbr](https://telegram.me/dockerbr)<br>
-5. [https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)<br>
-6. [https://telegram.me/elasticbr](https://telegram.me/elasticbr)<br>
-7. [https://telegram.me/devopsbr](https://telegram.me/devopsbr)<br>
-8. [https://telegram.me/go_br](https://telegram.me/go_br)<br>
-9. [https://telegram.me/chefbr](https://telegram.me/chefbr)<br>
-10. [https://telegram.me/PyCoding](https://telegram.me/PyCoding)<br>
-11. [https://telegram.me/PfSenseBr](https://telegram.me/PfSenseBr)<br>
-12. [https://telegram.me/ShellBr](https://telegram.me/ShellBr)<br>
-13. [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)<br>
-14. [https://telegram.me/powershellbr](https://telegram.me/powershellbr)<br>
-15. [https://telegram.me/frontendbrasil](https://telegram.me/frontendbrasil)<br>
-16. [https://telegram.me/angularjsbrasil](https://telegram.me/angularjsbrasil)<br>
-17. [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)<br>
-18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)<br>
-19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)<br>
-20. [https://telegram.me/excelbr](https://telegram.me/excelbr)<br>
+1. [https://telegram.me/puppetbr](https://telegram.me/puppetbr)
+2. [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)
+3. [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)
+4. [https://telegram.me/dockerbr](https://telegram.me/dockerbr)
+5. [https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)
+6. [https://telegram.me/elasticbr](https://telegram.me/elasticbr)
+7. [https://telegram.me/devopsbr](https://telegram.me/devopsbr)
+8. [https://telegram.me/go_br](https://telegram.me/go_br)
+9. [https://telegram.me/chefbr](https://telegram.me/chefbr)
+10. [https://telegram.me/PyCoding](https://telegram.me/PyCoding)
+11. [https://telegram.me/PfSenseBr](https://telegram.me/PfSenseBr)
+12. [https://telegram.me/ShellBr](https://telegram.me/ShellBr)
+13. [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)
+14. [https://telegram.me/powershellbr](https://telegram.me/powershellbr)
+15. [https://telegram.me/frontendbrasil](https://telegram.me/frontendbrasil)
+16. [https://telegram.me/angularjsbrasil](https://telegram.me/angularjsbrasil)
+17. [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)
+18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)
+19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)
+20. [https://telegram.me/excelbr](https://telegram.me/excelbr)
 
 ### 5.2 Outros
 
-1. [Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)<br>
+1. [Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)
 
 ## 6. Como assinar?
 
