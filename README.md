@@ -99,6 +99,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)
 19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)
 20. [https://telegram.me/excelbr](https://telegram.me/excelbr)
+21. [https://telegram.me/mongodbbrasil](https://telegram.me/mongodbbrasil)
 
 ### 5.2 Outros
 
