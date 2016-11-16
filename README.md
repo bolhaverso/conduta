@@ -103,6 +103,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 22. [https://telegram.me/NxfilterBR](https://telegram.me/NxfilterBR)
 23. [https://telegram.me/mongodbbrasil](https://telegram.me/mongodbbrasil)
 24. [https://telegram.me/rocketchatbr](https://telegram.me/rocketchatbr)
+25. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
 
 ### 5.2 Outros
 
