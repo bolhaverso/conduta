@@ -104,6 +104,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 23. [https://telegram.me/mongodbbrasil](https://telegram.me/mongodbbrasil)
 24. [https://telegram.me/rocketchatbr](https://telegram.me/rocketchatbr)
 25. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
+26. [https://telegram.me/azurebrasil](https://telegram.me/azurebrasil)
 
 ### 5.2 Outros
 
