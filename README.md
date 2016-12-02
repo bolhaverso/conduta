@@ -118,7 +118,7 @@ Converse com sua comunidade, pergunte se todos concordam e se sentem confortáve
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
 
-Acesse o grupo do código-de-conduta https://telegram.me/joinchat/AejjFQb7EFdypScMYZGeJw e mande seu feedback.
+Acesse o grupo do código-de-conduta https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q e mande seu feedback.
 
 ## 8. Licença
 
