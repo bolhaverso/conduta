@@ -107,6 +107,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 25. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
 26. [https://telegram.me/azurebrasil](https://telegram.me/azurebrasil)
 27. [https://telegram.me/hackingbrasil](https://telegram.me/hackingbrasil)
+28. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
 
 ### 5.2 Outros
 
