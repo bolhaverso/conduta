@@ -125,7 +125,7 @@ Acesse o grupo do código-de-conduta https://telegram.me/joinchat/AejjFUFKkqIxWg
 
 ## 8. Licença
 
-Creative Commons BY-SA-NC
+[Creative Commons BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 9. Autor e mantenedor do projeto
 
