@@ -17,7 +17,7 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 
 ## 2. Política anti-spam
 
-- Não faça SPAM
+- Não faça SPAM. Avalie os pontos 4.3, 4.4, 4.5 e 4.6 para referências do que é considerado propaganda não-solicitada.
 
 ## 3. Política anti-pirataria
 
@@ -45,7 +45,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 ### 4.2 Divulgar vagas de emprego
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
-- Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com IT;
+- Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
 - Se preferir, existem canais no telegram específicos para este tipo de atividade.
 
 ### 4.3 Divulgar canais
@@ -61,7 +61,8 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 ### 4.5 Compartilhar links
 
 - Evite fazer flood de links no canal;
-- Se quiser passar muitos links ou muito material, o ideal é fazer um blogpost e compartilhar o link no grupo.
+- Se quiser passar muitos links ou muito material, o ideal é fazer um blogpost e compartilhar o link no grupo;
+- Em hipótese alguma serão tolerados links com anúncios para visualização (como adf.ly e similares). Para compartilhar links, poste a URL direta do material proposto.
 
 ### 4.6 Divulgar produtos e serviços
 
