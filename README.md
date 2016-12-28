@@ -17,7 +17,7 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 
 ## 2. Política anti-spam
 
-- Não faça SPAM. Avalie os pontos 4.3, 4.4, 4.5 e 4.6 para referências do que é considerado propaganda não-solicitada.
+- Não faça spam. Avalie os pontos [4.3](#43-divulgar-canais), [4.4](#44-divulgar-eventos), [4.5](#45-compartilhar-links) e [4.6](#46-divulgar-produtos-e-serviços) para referências do que é considerado propaganda não-solicitada.
 
 ## 3. Política anti-pirataria
 
@@ -78,7 +78,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ## 5. Grupos signatários deste guia
 
-### 5.1 Grupos e canais com URL's Públicas
+### 5.1 Grupos e canais com URLs Públicas
 
 1. [https://telegram.me/puppetbr](https://telegram.me/puppetbr)
 2. [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)
