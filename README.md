@@ -56,7 +56,10 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 ### 4.4 Divulgar eventos
 
 - Não divulgue eventos sem consultar os admins (em pvt);
-- Se for autorizado pelos admins, ainda assim, evite fazer flood com infos do evento no grupo.
+- Não entre no canal apenas para divulgar eventos;
+- Não seja aquele usuário que só aparece para fazer propaganda;
+- Os admins percebem quem participa, ajuda, conversa, colabora e agrega ao grupo, e isso é levado em conta para liberação;
+- Se for autorizado pelos admins, ainda assim, evite fazer flood do evento no grupo;
 
 ### 4.5 Compartilhar links
 
