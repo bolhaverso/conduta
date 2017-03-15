@@ -118,6 +118,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 33. [https://telegram.me/salt_br](https://telegram.me/salt_br)
 34. [https://telegram.me/datasciencepython](https://telegram.me/datasciencepython)
 35. [https://telegram.me/fiberhomebrasil](https://telegram.me/fiberhomebrasil)
+36. [https://telegram.me/arduinobr](https://telegram.me/arduinobr)
 
 ### 5.2 Outros
 
