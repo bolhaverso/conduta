@@ -132,12 +132,20 @@ Converse com sua comunidade, pergunte se todos concordam e se sentem confortáve
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
 
-Acesse o grupo do código-de-conduta https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q e mande seu feedback.
+Acesse o grupo do código-de-conduta [https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q](https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q) e mande seu feedback.
 
 ## 8. Licença
 
 [Creative Commons BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## 9. Autor e mantenedor do projeto
+## 9. URLs curtas e amigáveis
+
+Use as URls abaixo para pinar o código no topo do seu canal.
+
+- [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
+- [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
+- [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
+
+## 10. Autor e mantenedor do projeto
 
 Guto Carvalho (gutocarvalho@gmail.com)
