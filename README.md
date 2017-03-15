@@ -115,7 +115,9 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 30. [https://telegram.me/phpse](https://telegram.me/phpse)
 31. [https://telegram.me/kubernetesbr](https://telegram.me/kubernetesbr)
 32. [https://telegram.me/baculabr](https://telegram.me/baculabr)
-33. [https://telegram.me/datasciencepython](https://telegram.me/datasciencepython)
+33. [https://telegram.me/salt_br](https://telegram.me/salt_br)
+34. [https://telegram.me/datasciencepython](https://telegram.me/datasciencepython)
+35. [https://telegram.me/fiberhomebrasil](https://telegram.me/fiberhomebrasil)
 
 ### 5.2 Outros
 
