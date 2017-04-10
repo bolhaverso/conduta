@@ -119,6 +119,9 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 34. [https://telegram.me/datasciencepython](https://telegram.me/datasciencepython)
 35. [https://telegram.me/fiberhomebrasil](https://telegram.me/fiberhomebrasil)
 36. [https://telegram.me/arduinobr](https://telegram.me/arduinobr)
+37. [https://telegram.me/phpmaranhao](https://telegram.me/phpmaranhao)
+38. [https://telegram.me/gdgsaoluis](https://telegram.me/gdgsaoluis)
+39. [https://telegram.me/saoluishackerspace](https://telegram.me/saoluishackerspace)
 
 ### 5.2 Outros
 
