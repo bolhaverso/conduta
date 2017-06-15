@@ -88,7 +88,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 3. [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)
 4. [https://telegram.me/dockerbr](https://telegram.me/dockerbr)
 5. [https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)
-6. [https://telegram.me/elasticbr](https://telegram.me/elasticbr)
+6. [https://telegram.me/jenkinsbr](https://telegram.me/jenkinsbr)
 7. [https://telegram.me/devopsbr](https://telegram.me/devopsbr)
 8. [https://telegram.me/go_br](https://telegram.me/go_br)
 9. [https://telegram.me/chefbr](https://telegram.me/chefbr)
@@ -123,12 +123,12 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 38. [https://telegram.me/gdgsaoluis](https://telegram.me/gdgsaoluis)
 39. [https://telegram.me/saoluishackerspace](https://telegram.me/saoluishackerspace)  
 40. [https://telegram.me/arangodbbrasil](https://telegram.me/arangodbbrasil)
-41. [https://telegram.me/jenkinsbr](https://telegram.me/jenkinsbr)
+41. [https://t.me/bemean](https://telegram.me/bemean)
 
+Canais privados, apenas URL de invite
 
-### 5.2 Outros
-
-1. [Be MEAN - privado](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)
+01. [mac-user-br](https://t.me/joinchat/AAAAAD67s-BsiroXYt_E-w)
+02. [elastic-br](https://t.me/joinchat/AAAAAEGKEcc7XCAlaazTeA)
 
 ## 6. Como assinar?
 
