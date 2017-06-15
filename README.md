@@ -123,6 +123,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 38. [https://telegram.me/gdgsaoluis](https://telegram.me/gdgsaoluis)
 39. [https://telegram.me/saoluishackerspace](https://telegram.me/saoluishackerspace)  
 40. [https://telegram.me/arangodbbrasil](https://telegram.me/arangodbbrasil)
+41. [https://telegram.me/jenkinsbr](https://telegram.me/jenkinsbr)
 
 
 ### 5.2 Outros
