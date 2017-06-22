@@ -1,6 +1,6 @@
 # Código de Conduta
 
-Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI do Telegram.
+Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI Brasileiras.
 
 ## 1. Política anti-harassment
 
@@ -26,7 +26,7 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 
 ## 4. Orientações diversas
 
-Lembre-se que o telegram é uma rede mundial, dar bom dia, boa tarde e boa noite não faz sentido já que existem usuários em diversos fusos nos grupos, tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que telegram não é real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
+Lembre-se que estamos em uma rede mundial, dar bom dia, boa tarde e boa noite não faz sentido já que existem usuários em diversos fusos nos canais, tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que estes sistemas não são real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
 
 Não precisa pedir permissão para perguntar, muito menos perguntar se alguém conhece determinado assunto no grupo antes de informar sua dúvida. Apenas faça sua pergunta e aguarde uma interação.
 
@@ -46,7 +46,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
-- Se preferir, existem canais no telegram específicos para este tipo de atividade.
+- Se preferir, existem canais específicos para este tipo de atividade, procure na lista de canais.
 
 ### 4.3 Divulgar canais
 
@@ -72,7 +72,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 - Não divulgue produtos, serviços, cursos ou quaisquer materiais sem consultar os admins (em pvt);
 - Se autorizado, ainda assim, a divulgação deste tipo de oferta deve ter link com o tema do grupo;
 - Evite fazer flood com a divulgação de produtos e serviços;
-- Se preferir, existem canais no telegram específicos para este tipo de atividade.
+- Se preferir, existem canais específicos para este tipo de atividade.
 
 ### 4.7 Enviar código
 
@@ -81,7 +81,9 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ## 5. Grupos signatários deste guia
 
-### 5.1 Grupos e canais com URLs Públicas
+### 5.1 Telegram
+
+Grupos e canais do Telegram com URL Pública
 
 1. [https://telegram.me/puppetbr](https://telegram.me/puppetbr)
 2. [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)
@@ -126,10 +128,14 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 41. [https://t.me/bemean](https://telegram.me/bemean)
 42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
 
-Canais privados, apenas URL de invite
+Canais privados o telegram privados, com URL de invite
 
 01. [mac-user-br](https://t.me/joinchat/AAAAAD67s-BsiroXYt_E-w)
 02. [elastic-br](https://t.me/joinchat/AAAAAEGKEcc7XCAlaazTeA)
+
+### 5.2 Slack
+
+01. infraascode.slack.com
 
 ## 6. Como assinar?
 
@@ -139,15 +145,13 @@ Converse com sua comunidade, pergunte se todos concordam e se sentem confortáve
 
 Abra issues ou envie PRs para melhorar ou expandir este guia.
 
-Acesse o grupo do código-de-conduta [https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q](https://telegram.me/joinchat/AejjFUFKkqIxWgUMzi9d5Q) e mande seu feedback.
-
 ## 8. Licença
 
 [Creative Commons BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 9. URLs curtas e amigáveis
 
-Use as URls abaixo para pinar o código no topo do seu canal.
+Use as URls abaixo para pinar o código no topo do seu canal do telegram
 
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
 - [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
