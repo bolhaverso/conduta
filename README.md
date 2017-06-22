@@ -124,6 +124,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 39. [https://telegram.me/saoluishackerspace](https://telegram.me/saoluishackerspace)  
 40. [https://telegram.me/arangodbbrasil](https://telegram.me/arangodbbrasil)
 41. [https://t.me/bemean](https://telegram.me/bemean)
+42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
 
 Canais privados, apenas URL de invite
 
