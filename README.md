@@ -18,6 +18,8 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 ## 2. Política anti-spam
 
 - Não faça spam. Avalie os pontos [4.3](#43-divulgar-canais), [4.4](#44-divulgar-eventos), [4.5](#45-compartilhar-links) e [4.6](#46-divulgar-produtos-e-serviços) para referências do que é considerado propaganda não-solicitada.
+- Não envie mensagens excessivas, tente ser sussinto no que conversar.
+- Não envie muitas imagens, se quiser conversar mais abertamente sobre assuntos que tangem TI, converse em privado.
 
 ## 3. Política anti-pirataria
 
@@ -60,12 +62,15 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 - Não seja aquele usuário que só aparece para fazer propaganda;
 - Os admins percebem quem participa, ajuda, conversa, colabora e agrega ao grupo, e isso é levado em conta para liberação;
 - Se for autorizado pelos admins, ainda assim, evite fazer flood do evento no grupo;
+- Incentivamos a divulgação de "Coding Dojos", "Hackatons", Palestras e outros eventos que incentivam a competitividade e cooperação em grupo dos membros.
 
 ### 4.5 Compartilhar links
 
 - Evite fazer flood de links no canal;
 - Se quiser passar muitos links ou muito material, o ideal é fazer um blogpost e compartilhar o link no grupo;
-- Em hipótese alguma serão tolerados links com anúncios para visualização (como adf.ly e similares). Para compartilhar links, poste a URL direta do material proposto.
+- Em hipótese alguma serão tolerados links com anúncios para visualização (como adf.ly e similares). Para compartilhar links, poste a URL direta do material proposto;
+- Não divulgue links de conteúdos obtidos em sites obscuros;
+- Não divulge links de downloads de conteúdos pirateados ou crackeados;
 
 ### 4.6 Divulgar produtos e serviços
 
@@ -78,6 +83,12 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo;
 - Para enviar códigos no meio do parágrafo, coloque-o entre crases para destacá-lo com fonte monoespaçada (e fundo vermelho na versão web), por exemplo: ``Use o comando `uname -a` para descobrir a versão``.
+
+### 4.8 Divuldar Conteúdos Acadêmicos
+
+- Não divulge links de conferências, artigos (papers), eventos, seminários, entre outros sem consultar os admins (em pvt);
+- É incentivado a divulgação de "Call of Papers", Seminários e outros diversos eventos Acadêmicos da Área de TI.
+- Conteúdos de outras áreas também são permitidos, mas evite. Este grupo é relacionado a TIC's.
 
 ## 5. Grupos signatários deste guia
 
@@ -127,8 +138,9 @@ Grupos e canais do Telegram com URL Pública
 40. [https://telegram.me/arangodbbrasil](https://telegram.me/arangodbbrasil)
 41. [https://t.me/bemean](https://telegram.me/bemean)
 42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
+43. [https://t.me/ComputerScientistBr](https://t.me/ComputerScientistBr)
 
-Canais privados o telegram privados, com URL de invite
+Grupos e canais do Telegram privados, porém com URL de Convite
 
 01. [mac-user-br](https://t.me/joinchat/AAAAAD67s-BsiroXYt_E-w)
 02. [elastic-br](https://t.me/joinchat/AAAAAEGKEcc7XCAlaazTeA)
