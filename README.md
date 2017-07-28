@@ -127,8 +127,9 @@ Grupos e canais do Telegram com URL Pública
 40. [https://telegram.me/arangodbbrasil](https://telegram.me/arangodbbrasil)
 41. [https://t.me/bemean](https://telegram.me/bemean)
 42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
+43. [https://t.me/ComputerScientistBr](https://t.me/ComputerScientistBr)
 
-Canais privados o telegram privados, com URL de invite
+Grupos e canais privados ( com URL de invite )
 
 01. [mac-user-br](https://t.me/joinchat/AAAAAD67s-BsiroXYt_E-w)
 02. [elastic-br](https://t.me/joinchat/AAAAAEGKEcc7XCAlaazTeA)
@@ -136,6 +137,9 @@ Canais privados o telegram privados, com URL de invite
 ### 5.2 Slack
 
 01. infraascode.slack.com
+02. devopsdaysbrasilia.slack.com
+03. instruct-alumini.slack.com
+04. instructbr.slack.com
 
 ## 6. Como assinar?
 
