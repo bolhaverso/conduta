@@ -128,6 +128,7 @@ Grupos e canais do Telegram com URL Pública
 41. [https://t.me/bemean](https://telegram.me/bemean)
 42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
 43. [https://t.me/ComputerScientistBr](https://t.me/ComputerScientistBr)
+43. [https://t.me/ScrumBR](https://t.me/scrumbr)
 
 Grupos e canais privados ( com URL de invite )
 
