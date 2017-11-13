@@ -30,7 +30,7 @@ Lembre-se que estamos em uma rede mundial, dar bom dia, boa tarde e boa noite n�
 
 Não precisa pedir permissão para perguntar, muito menos perguntar se alguém conhece determinado assunto no grupo antes de informar sua dúvida. Apenas faça sua pergunta e aguarde uma interação.
 
-Quando for responder alguma pergunta, clique nela e escolha a opção responder, pois somente assim os membros do grupo saberão que sua resposta está associada aquela determinada questão.
+Quando for responder alguma pergunta, clique nela e escolha a opção responder — ou inicie um thread no slack, pois somente assim os membros do grupo saberão que sua resposta está associada aquela determinada questão.
 
 Lembre-se que os grupos não são canais de suporte oficiais das tecnologias relacionadas, os grupos são formados por pessoas que assim como você estão ali pra trocar experiências. Não há qualquer acordo de tempo de resposta para as dúvidas no grupo, ou seja, caso ninguém responda, é possível que elas não saibam a resposta ou talvez não tiveram tempo disponível para responder.
 
@@ -78,6 +78,10 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo;
 - Para enviar códigos no meio do parágrafo, coloque-o entre crases para destacá-lo com fonte monoespaçada (e fundo vermelho na versão web), por exemplo: ``Use o comando `uname -a` para descobrir a versão``.
+
+### 4.8 Pode divulgar
+
+Incentivamos a divulgação de "Coding Dojos", "Hackatons", palestras, eventos comunitários e outros eventos que incentivem a disseminação do conhecimento e a colaboração.
 
 ## 5. Grupos signatários deste guia
 
@@ -128,6 +132,10 @@ Grupos e canais do Telegram com URL Pública
 41. [https://t.me/bemean](https://telegram.me/bemean)
 42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
 43. [https://t.me/ComputerScientistBr](https://t.me/ComputerScientistBr)
+44. [https://t.me/ScrumBR](https://t.me/scrumbr)
+45. [https://t.me/programeiros]( https://t.me/programeiros) 
+46. [https://t.me/Engenharia_Software]( https://t.me/Engenharia_Software) 
+47. [https://t.me/ServerlessBrasil](https://t.me/ServerlessBrasil)
 
 Grupos e canais privados ( com URL de invite )
 
