@@ -146,8 +146,7 @@ Grupos e canais privados ( com URL de invite )
 
 01. infraascode.slack.com
 02. devopsdaysbrasilia.slack.com
-03. instruct-alumini.slack.com
-04. instructbr.slack.com
+05. mattermost.instruct.com.br
 
 ## 6. Como assinar?
 
