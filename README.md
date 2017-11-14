@@ -136,6 +136,7 @@ Grupos e canais do Telegram com URL Pública
 45. [https://t.me/programeiros]( https://t.me/programeiros) 
 46. [https://t.me/Engenharia_Software]( https://t.me/Engenharia_Software) 
 47. [https://t.me/ServerlessBrasil](https://t.me/ServerlessBrasil)
+48. [https://t.me/rbrasil](https://t.me/rbrasil)
 
 Grupos e canais privados ( com URL de invite )
 
