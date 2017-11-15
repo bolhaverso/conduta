@@ -166,7 +166,7 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 
 ## 9. URLs curtas e amigáveis
 
-Use as URls abaixo para pinar o código no topo do seu canal do telegram
+Use as URls abaixo para pinar o código no topo do seu canal.
 
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
 - [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
