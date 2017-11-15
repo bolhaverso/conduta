@@ -150,7 +150,7 @@ Grupos e canais privados ( com URL de invite )
 
 ### 5.3 MatterMost
 
-05. mattermost.instruct.com.br
+01. mattermost.instruct.com.br
 
 ## 6. Como assinar?
 
