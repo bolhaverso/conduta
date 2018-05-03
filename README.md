@@ -138,6 +138,7 @@ Grupos e canais do Telegram com URL Pública
 47. [https://t.me/ServerlessBrasil](https://t.me/ServerlessBrasil)
 48. [https://t.me/rbrasil](https://t.me/rbrasil)
 49. [https://t.me/laravelbr](https://t.me/laravelbr)
+50. [https://t.me/mesosbr](https://t.me/mesosbr)
 
 Grupos e canais privados ( com URL de invite )
 
