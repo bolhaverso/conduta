@@ -139,6 +139,8 @@ Grupos e canais do Telegram com URL Pública
 48. [https://t.me/rbrasil](https://t.me/rbrasil)
 49. [https://t.me/laravelbr](https://t.me/laravelbr)
 50. [http://t.me/patiodigital](http://t.me/patiodigital)
+51. [https://t.me/mesosbr](https://t.me/mesosbr)
+52. [https://t.me/sqlmssql](https://t.me/sqlmssql)
 
 Grupos e canais privados ( com URL de invite )
 
@@ -170,6 +172,7 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 
 Use as URls abaixo para pinar o código no topo do seu canal.
 
+- [https://t.me/codigoconduta](https://t.me/codigoconduta)
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
 - [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
 - [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
