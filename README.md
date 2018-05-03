@@ -141,11 +141,7 @@ Grupos e canais do Telegram com URL Pública
 50. [http://t.me/patiodigital](http://t.me/patiodigital)
 51. [https://t.me/mesosbr](https://t.me/mesosbr)
 52. [https://t.me/sqlmssql](https://t.me/sqlmssql)
-
-Grupos e canais privados ( com URL de invite )
-
-01. [mac-user-br](https://t.me/joinchat/AAAAAD67s-BsiroXYt_E-w)
-02. [elastic-br](https://t.me/joinchat/AAAAAEGKEcc7XCAlaazTeA)
+53. [https://t.me/macusersbr](https://t.me/macusersbr)
 
 ### 5.2 Slack
 
