@@ -142,6 +142,7 @@ Grupos e canais do Telegram com URL Pública
 51. [https://t.me/mesosbr](https://t.me/mesosbr)
 52. [https://t.me/sqlmssql](https://t.me/sqlmssql)
 53. [https://t.me/macusersbr](https://t.me/macusersbr)
+54. [https://t.me/cafezinho](https://t.me/cafezinho)
 
 ### 5.2 Slack
 
