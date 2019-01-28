@@ -144,6 +144,7 @@ Grupos e canais do Telegram com URL Pública
 53. [https://t.me/macusersbr](https://t.me/macusersbr)
 54. [https://t.me/CentOSLATAM](https://t.me/CentOSLATAM)
 55. [https://t.me/G1_Globo_Oficial](https://t.me/G1_Globo_Oficial)
+56. [https://t.me/elixirbr](https://t.me/elixirbr)
 
 ### 5.2 Slack
 
