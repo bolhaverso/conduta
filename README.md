@@ -145,6 +145,8 @@ Grupos e canais do Telegram com URL Pública
 54. [https://t.me/CentOSLATAM](https://t.me/CentOSLATAM)
 55. [https://t.me/G1_Globo_Oficial](https://t.me/G1_Globo_Oficial)
 56. [https://t.me/elixirbr](https://t.me/elixirbr)
+57. [https://t.me/rubybrasil](https://t.me/rubybrasil)
+58. [https://t.me/guru_go](https://t.me/guru_go)
 
 ### 5.2 Slack
 
