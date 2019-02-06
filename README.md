@@ -147,6 +147,7 @@ Grupos e canais do Telegram com URL Pública
 56. [https://t.me/elixirbr](https://t.me/elixirbr)
 57. [https://t.me/rubybrasil](https://t.me/rubybrasil)
 58. [https://t.me/guru_go](https://t.me/guru_go)
+59. [https://t.me/WebDevRN](https://t.me/WebDevRN)
 
 ### 5.2 Slack
 
