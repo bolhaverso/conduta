@@ -149,6 +149,10 @@ Grupos e canais do Telegram com URL Pública
 58. [https://t.me/guru_go](https://t.me/guru_go)
 59. [https://t.me/nagiosbr](https://t.me/nagiosbr)
 60. [https://t.me/awsbrasil](https://t.me/awsbrasil)
+61. [https://t.me/WebDevRN](https://t.me/WebDevRN)
+62. [https://t.me/fug_br](https://t.me/fug_br)
+63. [https://t.me/cafezinho](https://t.me/cafezinho)
+
 
 ### 5.2 Slack
 
