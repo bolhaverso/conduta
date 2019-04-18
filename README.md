@@ -8,6 +8,7 @@ Os canais signatários deste guia são locais livres de assédio, opressão e pr
 
 - Não serão tolerados comentários ofensivos sobre gênero, orientação sexual, deficiências, aparência física, raça ou credo;
 - Os membros do grupo não estão no grupo para paquerar, não insista, existem outras redes para isto;
+- Os membros do grupo não estão no canal para discutir política, evite o assunto, evite o uso de avatares polêmicos;
 - O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
 - Termos inadequados, intimidação, perseguição, comportamento rude, ofensivo ou desrespeitoso não serão tolerados;
 - Piadas sexistas, machistas, misóginas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
@@ -40,7 +41,13 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Sempre que possível mantenha o tema central do grupo nas conversas;
 - Evite temas off-topics como games, futebol, credo e política;
-- Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas se desejar.
+- Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas se desejar;
+
+#### 4.1.1 Avatares nos grupos
+
+- Evite o uso de avatares polêmicos, como por exemplo seu/sua candidato(a) político para qualquer cargo;
+- Evite o uso de avatares de campanhas sociais, culturais ou que possam gerar discussões fora do tema do grupo;
+- Evite o uso de avatares relacinados a produtos ou eventos, isso pode ser interpretado como propaganda indevida pelos admins.
 
 ### 4.2 Divulgar vagas de emprego
 
@@ -81,7 +88,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ### 4.8 Pode divulgar
 
-Incentivamos a divulgação de "Coding Dojos", "Hackatons", palestras, eventos comunitários e outros eventos que incentivem a disseminação do conhecimento e a colaboração.
+Incentivamos a divulgação de "Coding Dojos", "Hackatons", palestras, eventos comunitários e outros eventos que ajudem a disseminação do conhecimento e a colaboração.
 
 ## 5. Grupos signatários deste guia
 
