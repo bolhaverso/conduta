@@ -11,7 +11,7 @@ Os canais signatários deste guia são locais livres de assédio, opressão e pr
 - Os membros do grupo não estão no canal para discutir política, evite o assunto, evite o uso de avatares polêmicos;
 - O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
 - Termos inadequados, intimidação, perseguição, comportamento rude, ofensivo ou desrespeitoso não serão tolerados;
-- Piadas sexistas, machistas, misóginas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
+- Piadas sexistas, machistas, misóginas ou discriminatórias, contra minorias, pessoas ou grupos não serão toleradas;
 - Bullying não será tolerado.
 
 Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista, serão removidos do grupo ou canal.
@@ -20,7 +20,7 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 
 - Não faça spam. Avalie os pontos [4.3](#43-divulgar-canais), [4.4](#44-divulgar-eventos), [4.5](#45-compartilhar-links) e [4.6](#46-divulgar-produtos-e-serviços) para referências do que é considerado propaganda não-solicitada.
 
-## 3. Política anti-pirataria
+## 3. Política antipirataria
 
 - Pirataria é crime, não repasse links para material protegido no grupo;
 - Quem repassar material protegido poderá ser denunciado para o autor do material.
@@ -47,7 +47,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Evite o uso de avatares polêmicos, como por exemplo seu/sua candidato(a) político para qualquer cargo;
 - Evite o uso de avatares de campanhas sociais, culturais ou que possam gerar discussões fora do tema do grupo;
-- Evite o uso de avatares relacinados a produtos ou eventos, isso pode ser interpretado como propaganda indevida pelos admins.
+- Evite o uso de avatares relacionados a produtos ou eventos, isso pode ser interpretado como propaganda indevida pelos admins.
 
 ### 4.2 Divulgar vagas de emprego
 
