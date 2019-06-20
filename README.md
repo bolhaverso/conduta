@@ -159,7 +159,7 @@ Grupos e canais do Telegram com URL Pública
 61. [https://t.me/WebDevRN](https://t.me/WebDevRN)
 62. [https://t.me/fug_br](https://t.me/fug_br)
 63. [https://t.me/cafezinho](https://t.me/cafezinho)
-
+64. [https://t.me/SpringBrasil](https://t.me/springbrasil)
 
 ### 5.2 Slack
 
