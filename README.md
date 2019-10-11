@@ -51,9 +51,9 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ### 4.2 Divulgar vagas de emprego
 
-- Não divulgue vagas de emprego sem consultar os admins (em pvt);
-- Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
-- Se preferir, existem canais específicos para este tipo de atividade, procure na lista de canais.
+- Caso queira, você pode consultar os admins em privado sobre divulgar vagas relacionadas a TI;
+- Se preferir, existem canais específicos para este tipo de atividade;
+- Os canais mais conhecidos são @vagastibr, @jobsdevops, @churropsjobs.
 
 ### 4.3 Divulgar canais
 
