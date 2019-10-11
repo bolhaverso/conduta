@@ -169,7 +169,7 @@ Grupos e canais do Telegram com URL Pública
 
 ### 5.3 MatterMost
 
-01. mattermost.instruct.com.br
+01. mattermost.jac.bsb.br
 
 ## 6. Como assinar?
 
