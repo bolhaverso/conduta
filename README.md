@@ -189,7 +189,7 @@ Use as URls abaixo para pinar o código no topo do seu canal.
 
 - [https://t.me/codigoconduta](https://t.me/codigoconduta)
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
-- [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
+- [http://bit.ly/telegram-codigo-de-conduta](http://bit.ly/telegram-codigo-de-conduta)
 - [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
 
 ## 10. Autor e mantenedor do projeto
