@@ -161,6 +161,7 @@ Grupos e canais do Telegram com URL Pública
 64. [https://t.me/SpringBrasil](https://t.me/springbrasil)
 65. [https://t.me/DataSciMT](https://t.me/DataSciMT)
 66. [https://t.me/frontendtestesbrasil](https://t.me/frontendtestesbrasil)
+67. [https://t.me/brtechto](https://t.me/brtechto)
 
 ### 5.2 Slack
 
