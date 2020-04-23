@@ -161,6 +161,10 @@ Grupos e canais do Telegram com URL Pública
 64. [https://t.me/SpringBrasil](https://t.me/springbrasil)
 65. [https://t.me/DataSciMT](https://t.me/DataSciMT)
 66. [https://t.me/frontendtestesbrasil](https://t.me/frontendtestesbrasil)
+67. [https://t.me/wwgcwb](https://t.me/wwgcwb)
+68. [https://t.me/kotlin_cwb](https://t.me/kotlin_cwb)
+69. [https://t.me/brtechto](https://t.me/brtechto)
+
 
 ### 5.2 Slack
 
@@ -189,7 +193,7 @@ Use as URls abaixo para pinar o código no topo do seu canal.
 
 - [https://t.me/codigoconduta](https://t.me/codigoconduta)
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
-- [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
+- [http://bit.ly/telegram-codigo-de-conduta](http://bit.ly/telegram-codigo-de-conduta)
 - [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
 
 ## 10. Autor e mantenedor do projeto
