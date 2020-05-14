@@ -164,6 +164,7 @@ Grupos e canais do Telegram com URL Pública
 67. [https://t.me/wwgcwb](https://t.me/wwgcwb)
 68. [https://t.me/kotlin_cwb](https://t.me/kotlin_cwb)
 69. [https://t.me/brtechto](https://t.me/brtechto)
+70. [https://t.me/o365brasil](https://t.me/o365brasil)
 
 
 ### 5.2 Slack
