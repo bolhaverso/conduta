@@ -11,7 +11,7 @@ Os canais signatários deste guia são locais livres de assédio, opressão e pr
 - Os membros do grupo não estão no canal para discutir política, evite o assunto, evite o uso de avatares polêmicos;
 - O uso de conteúdo adulto em forma de vídeos, gif's, imagens ou áudio não será tolerado;
 - Termos inadequados, intimidação, perseguição, comportamento rude, ofensivo ou desrespeitoso não serão tolerados;
-- Piadas sexistas, machistas, misóginas ou discriminatórias, contra miniorias, pessoas ou grupos não serão toleradas;
+- Piadas sexistas, machistas, misóginas ou discriminatórias, contra minorias, pessoas ou grupos não serão toleradas;
 - Bullying não será tolerado.
 
 Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso o comportamento persista, serão removidos do grupo ou canal.
@@ -20,7 +20,7 @@ Aqueles que não respeitarem tais condutas serão advertidos (em privado) e caso
 
 - Não faça spam. Avalie os pontos [4.3](#43-divulgar-canais), [4.4](#44-divulgar-eventos), [4.5](#45-compartilhar-links) e [4.6](#46-divulgar-produtos-e-serviços) para referências do que é considerado propaganda não-solicitada.
 
-## 3. Política anti-pirataria
+## 3. Política antipirataria
 
 - Pirataria é crime, não repasse links para material protegido no grupo;
 - Quem repassar material protegido poderá ser denunciado para o autor do material.
@@ -47,13 +47,13 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Evite o uso de avatares polêmicos, como por exemplo seu/sua candidato(a) político para qualquer cargo;
 - Evite o uso de avatares de campanhas sociais, culturais ou que possam gerar discussões fora do tema do grupo;
-- Evite o uso de avatares relacinados a produtos ou eventos, isso pode ser interpretado como propaganda indevida pelos admins.
+- Evite o uso de avatares relacionados a produtos ou eventos, isso pode ser interpretado como propaganda indevida pelos admins.
 
 ### 4.2 Divulgar vagas de emprego
 
-- Não divulgue vagas de emprego sem consultar os admins (em pvt);
-- Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
-- Se preferir, existem canais específicos para este tipo de atividade, procure na lista de canais.
+- Caso queira, você pode consultar os admins em privado sobre divulgar vagas relacionadas a TI;
+- Se preferir, existem canais específicos para este tipo de atividade;
+- Os canais mais conhecidos são @vagastibr, @jobsdevops, @churropsjobs.
 
 ### 4.3 Divulgar canais
 
@@ -110,8 +110,7 @@ Grupos e canais do Telegram com URL Pública
 12. [https://telegram.me/ShellBr](https://telegram.me/ShellBr)
 13. [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)
 14. [https://telegram.me/powershellbr](https://telegram.me/powershellbr)
-15. [https://telegram.me/frontendbrasil](https://telegram.me/frontendbrasil)
-16. [https://telegram.me/angularjsbrasil](https://telegram.me/angularjsbrasil)
+15. [https://t.me/DataSciMT](https://t.me/DataSciMT)
 17. [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)
 18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)
 19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)
@@ -159,6 +158,13 @@ Grupos e canais do Telegram com URL Pública
 61. [https://t.me/WebDevRN](https://t.me/WebDevRN)
 62. [https://t.me/fug_br](https://t.me/fug_br)
 63. [https://t.me/cafezinho](https://t.me/cafezinho)
+64. [https://t.me/SpringBrasil](https://t.me/springbrasil)
+65. [https://t.me/DataSciMT](https://t.me/DataSciMT)
+66. [https://t.me/frontendtestesbrasil](https://t.me/frontendtestesbrasil)
+67. [https://t.me/wwgcwb](https://t.me/wwgcwb)
+68. [https://t.me/kotlin_cwb](https://t.me/kotlin_cwb)
+69. [https://t.me/brtechto](https://t.me/brtechto)
+70. [https://t.me/o365brasil](https://t.me/o365brasil)
 
 
 ### 5.2 Slack
@@ -168,7 +174,7 @@ Grupos e canais do Telegram com URL Pública
 
 ### 5.3 MatterMost
 
-01. mattermost.instruct.com.br
+01. mattermost.jac.bsb.br
 
 ## 6. Como assinar?
 
@@ -188,7 +194,7 @@ Use as URls abaixo para pinar o código no topo do seu canal.
 
 - [https://t.me/codigoconduta](https://t.me/codigoconduta)
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
-- [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
+- [http://bit.ly/telegram-codigo-de-conduta](http://bit.ly/telegram-codigo-de-conduta)
 - [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
 
 ## 10. Autor e mantenedor do projeto
