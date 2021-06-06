@@ -165,7 +165,8 @@ Grupos e canais do Telegram com URL Pública
 68. [https://t.me/kotlin_cwb](https://t.me/kotlin_cwb)
 69. [https://t.me/brtechto](https://t.me/brtechto)
 70. [https://t.me/o365brasil](https://t.me/o365brasil)
-
+71. [https://t.me/rbrasiloficial](https://t.me/rbrasiloficial)
+72. [https://telegram.me/podmanbr](https://telegram.me/podmanbr)
 
 ### 5.2 Slack
 
@@ -174,7 +175,7 @@ Grupos e canais do Telegram com URL Pública
 
 ### 5.3 MatterMost
 
-01. mattermost.jac.bsb.br
+01. chat.jacexperts.io
 
 ## 6. Como assinar?
 
