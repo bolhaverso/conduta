@@ -168,15 +168,29 @@ Grupos e canais do Telegram com URL Pública
 71. [https://t.me/rbrasiloficial](https://t.me/rbrasiloficial)
 72. [https://telegram.me/podmanbr](https://telegram.me/podmanbr)
 73. [https://t.me/remoteworkBR](https://t.me/remoteworkBR)
+74. [CloudNative-BR](https://t.me/cloudnativebr)
+75. [GitOps-BR](https://t.me/gitopsbr)
+76. [Continuos Delivery BR](https://t.me/cdfbr)
+77. [Teclado Mecanico](https://t.me/tecladomecanico)
+78. [Novo DevOps-BR](https://t.me/novodevopsbr)
 
 ### 5.2 Slack
 
 01. infraascode.slack.com
 02. devopsdaysbrasilia.slack.com
 
-### 5.3 MatterMost
+### 5.3 Matrix.org
 
-01. chat.jacexperts.io
+01. #devops-br
+02. #cicd-br
+03. #cloudnative-br
+04. #docker-br
+05. #gitlab-br
+06. #gitops-br
+07. #kubernetes-br
+08. #macusers-br
+09. #tecladomecanico
+10. #terraform-br
 
 ## 6. Como assinar?
 
@@ -199,6 +213,12 @@ Use as URls abaixo para pinar o código no topo do seu canal.
 - [http://bit.ly/telegram-codigo-de-conduta](http://bit.ly/telegram-codigo-de-conduta)
 - [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
 
-## 10. Autor e mantenedor do projeto
+## 10. Dúvidas?
 
-Guto Carvalho (gutocarvalho@gmail.com)
+Procure
+
+@gutocarvalho
+@somatorio
+@gomex
+
+No twitter, telegram ou matrix :)
