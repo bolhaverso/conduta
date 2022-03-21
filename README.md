@@ -181,29 +181,51 @@ Grupos e canais do Telegram com URL Pública
 
 ### 5.3 Matrix.org
 
-01. #devops-br
-02. #cicd-br
-03. #cloudnative-br
-04. #docker-br
-05. #gitlab-br
-06. #gitops-br
-07. #kubernetes-br
-08. #macusers-br
-09. #tecladomecanico
-10. #terraform-br
+01. #ansible-br
+02. #boundary-br
+03. #cicd-br
+04. #cloudnative-br
+05. #coberturas-br
+06. #codigo-de-conduta-br
+07.  #devops-br
+08.  #devopsdays-br
+09.  #docker-br
+10.  #eventos-br
+11.  #gilab-br
+12.  #kubernetes-br
+13.  #macusers-br
+14.  #nomad-br
+15.  #packer-br
+16.  #rancher-br
+17.  #servicemesh-br
+18.  #tecladomecanico-br
+19.  #terraform-br
+20.  #vagas-br
+21.  #vault-br
 
-### 5.3 Discord, servidor "Bolha Tech"
+### 5.3 Discord, servidor #BolhaTech
 
-01. #devops-br
-02. #cicd-br
-03. #cloudnative-br
-04. #docker-br
-05. #gitlab-br
-06. #gitops-br
-07. #kubernetes-br
-08. #macusers-br
-09. #tecladomecanico
-10. #terraform-br
+01. #ansible-br
+02. #boundary-br
+03. #cicd-br
+04. #cloudnative-br
+05. #coberturas-br
+06. #codigo-de-conduta-br
+07.  #devops-br
+08.  #devopsdays-br
+09.  #docker-br
+10.  #eventos-br
+11.  #gilab-br
+12.  #kubernetes-br
+13.  #macusers-br
+14.  #nomad-br
+15.  #packer-br
+16.  #rancher-br
+17.  #servicemesh-br
+18.  #tecladomecanico-br
+19.  #terraform-br
+20.  #vagas-br
+21.  #vault-br
 
 ## 6. Como assinar?
 
@@ -234,8 +256,8 @@ URLs curtas
 
 Procure
 
-@gutocarvalho
-@somatorio
-@gomex
+@gutocarvalho<br>
+@somatorio<br>
+@gomex<br>
 
-No twitter, telegram ou matrix :)
+No twitter, telegram, matrix ou discord :)
