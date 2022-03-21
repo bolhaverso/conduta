@@ -208,10 +208,9 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 
 Use as URls abaixo para pinar o código no topo do seu canal.
 
-- [https://t.me/codigoconduta](https://t.me/codigoconduta)
-- [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
-- [http://bit.ly/telegram-codigo-de-conduta](http://bit.ly/telegram-codigo-de-conduta)
-- [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
+- [ abre.ai/codigo-de-conduta-bolha-tech]( https://abre.ai/codigo-de-conduta-bolha-tech)
+- [ tinyurl.com/codigo-de-conduta-bolha-tech](tinyurl.com/codigo-de-conduta-bolha-tech)
+- [shorturl.at/nCNU6](shorturl.at/nCNU6)
 
 ## 10. Dúvidas?
 
