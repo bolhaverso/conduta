@@ -192,6 +192,19 @@ Grupos e canais do Telegram com URL Pública
 09. #tecladomecanico
 10. #terraform-br
 
+### 5.3 Discord, servidor "Bolha Tech"
+
+01. #devops-br
+02. #cicd-br
+03. #cloudnative-br
+04. #docker-br
+05. #gitlab-br
+06. #gitops-br
+07. #kubernetes-br
+08. #macusers-br
+09. #tecladomecanico
+10. #terraform-br
+
 ## 6. Como assinar?
 
 Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em seguir e recomendar esse guia de conduta para novos membros. Caso eles topem seguir o guia, basta enviar um PR adicionando o seu grupo na seção acima.
