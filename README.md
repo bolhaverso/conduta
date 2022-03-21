@@ -206,11 +206,16 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 
 ## 9. URLs curtas e amigáveis
 
-Use as URls abaixo para pinar o código no topo do seu canal.
+URLs amigáveis
 
 - [ abre.ai/codigo-de-conduta-bolha-tech]( https://abre.ai/codigo-de-conduta-bolha-tech)
 - [ tinyurl.com/codigo-de-conduta-bolha-tech](tinyurl.com/codigo-de-conduta-bolha-tech)
+
+URLs curtas
+
+- [abre.ai/edvq](https://abre.ai/edvq)
 - [shorturl.at/nCNU6](shorturl.at/nCNU6)
+- [tinyurl.com/mueff9sr](https://tinyurl.com/mueff9sr)
 
 ## 10. Dúvidas?
 
