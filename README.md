@@ -41,7 +41,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Sempre que possível mantenha o tema central do grupo nas conversas;
 - Evite temas off-topics como games, futebol, credo e política;
-- Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas se desejar;
+- Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas, se assim desejar;
 
 #### 4.1.1 Avatares nos grupos
 
@@ -53,9 +53,12 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Caso queira, você pode consultar os admins em privado sobre divulgar vagas relacionadas a TI;
 - Se preferir, existem canais específicos para este tipo de atividade;
-- Os canais mais conhecidos são @vagastibr, @jobsdevops, @churropsjobs.
+- No telegram os canais mais conhecidos são @vagastibr, @jobsdevops, @churropsjobs e @bolatech_vagas
+- No discord a @bolhatech use o canal #vagas
 
 ### 4.3 Divulgar canais
+
+No telegram
 
 - Não divulgue outros grupos ou canais sem consultar os admins (em pvt);
 - Se for autorizado pelos admins, ainda assim, evite fazer flood com o link do grupo.
@@ -68,6 +71,8 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 - Os admins percebem quem participa, ajuda, conversa, colabora e agrega ao grupo, e isso é levado em conta para liberação;
 - Se for autorizado pelos admins, ainda assim, evite fazer flood do evento no grupo;
 
+No caso do DISCORD #bolhatech use o canal #eventos.
+
 ### 4.5 Compartilhar links
 
 - Evite fazer flood de links no canal;
@@ -79,11 +84,14 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 - Não divulgue produtos, serviços, cursos ou quaisquer materiais sem consultar os admins (em pvt);
 - Se autorizado, ainda assim, a divulgação deste tipo de oferta deve ter link com o tema do grupo;
 - Evite fazer flood com a divulgação de produtos e serviços;
-- Se preferir, existem canais específicos para este tipo de atividade.
+- Existem canais específicos para este tipo de atividade, sugerimos procurar e utilizar tais canais.
 
 ### 4.7 Enviar código
 
 - Evite fazer flood de código no grupo, use sistemas pastebin, gist ou snippets e passe apenas a url no grupo;
+
+No telegram
+
 - Para enviar códigos no meio do parágrafo, coloque-o entre crases para destacá-lo com fonte monoespaçada (e fundo vermelho na versão web), por exemplo: ``Use o comando `uname -a` para descobrir a versão``.
 
 ### 4.8 Pode divulgar
@@ -187,21 +195,21 @@ Grupos e canais do Telegram com URL Pública
 04. #cloudnative-br
 05. #coberturas-br
 06. #codigo-de-conduta-br
-07.  #devops-br
-08.  #devopsdays-br
-09.  #docker-br
-10.  #eventos-br
-11.  #gilab-br
-12.  #kubernetes-br
-13.  #macusers-br
-14.  #nomad-br
-15.  #packer-br
-16.  #rancher-br
-17.  #servicemesh-br
-18.  #tecladomecanico-br
-19.  #terraform-br
-20.  #vagas-br
-21.  #vault-br
+07. #devops-br
+08. #devopsdays-br
+09. #docker-br
+10. #eventos-br
+11. #gilab-br
+12. #kubernetes-br
+13. #macusers-br
+14. #nomad-br
+15. #packer-br
+16. #rancher-br
+17. #servicemesh-br
+18. #tecladomecanico-br
+19. #terraform-br
+20. #vagas-br
+21. #vault-br
 
 ### 5.3 Discord, servidor #BolhaTech
 
@@ -211,21 +219,21 @@ Grupos e canais do Telegram com URL Pública
 04. #cloudnative-br
 05. #coberturas-br
 06. #codigo-de-conduta-br
-07.  #devops-br
-08.  #devopsdays-br
-09.  #docker-br
-10.  #eventos-br
-11.  #gilab-br
-12.  #kubernetes-br
-13.  #macusers-br
-14.  #nomad-br
-15.  #packer-br
-16.  #rancher-br
-17.  #servicemesh-br
-18.  #tecladomecanico-br
-19.  #terraform-br
-20.  #vagas-br
-21.  #vault-br
+07. #devops-br
+08. #devopsdays-br
+09. #docker-br
+10. #eventos-br
+11. #gilab-br
+12. #kubernetes-br
+13. #macusers-br
+14. #nomad-br
+15. #packer-br
+16. #rancher-br
+17. #servicemesh-br
+18. #tecladomecanico-br
+19. #terraform-br
+20. #vagas-br
+21. #vault-br
 
 ## 6. Como assinar?
 
@@ -244,9 +252,10 @@ Abra issues ou envie PRs para melhorar ou expandir este guia.
 URLs amigáveis
 
 - [ abre.ai/codigo-de-conduta-bolha-tech]( https://abre.ai/codigo-de-conduta-bolha-tech)
+- [ abre.ai/nossasregras]( https://abre.ai/nossasregras)
 - [ tinyurl.com/codigo-de-conduta-bolha-tech](tinyurl.com/codigo-de-conduta-bolha-tech)
 
-URLs curtas
+URLs + curtas
 
 - [abre.ai/edvq](https://abre.ai/edvq)
 - [shorturl.at/nCNU6](shorturl.at/nCNU6)
